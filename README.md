@@ -1,6 +1,6 @@
 <h1>ExpNo 2 : Implement Depth First Search Traversal of a Graph</h1> 
-<h3>Name:Ashwath M</h3>
-<h3>Register Number:212223230023</h3>
+<h3>Name:VESLIN ANISH A</h3>
+<h3>Register Number:212223240175</h3>
 <H3>Aim:</H3>
 <p> To Implement Depth First Search Traversal of a Graph using Python 3.</p>
 <h3>Theory:</h3>
@@ -55,7 +55,7 @@ Now, the Stack becomes empty, which means we have visited all the nodes, and our
 </ol></B>
 
 ## PROGRAM:
-
+```
 
 from collections import defaultdict
 
@@ -87,7 +87,7 @@ path = []
 traversed_path = dfs(graph, start, visited, path)
 print("DFS Traversal Path:", traversed_path)
 
-
+```
 
 <hr>
 <h3>Sample Input</h3>
